@@ -158,7 +158,7 @@ END PRELOADER JS*/
 			icon: image,
 			title: 'Solid',
 			infoWindow: {
-				content: '<p><strong>Maks </strong><br/>786 bokton road<br/>P: (123) 456-7890<br/>Los Angeles, CA, USA</p>'
+				content: '<p><strong>Link Data Web </strong><br/>786 bokton road<br/>P: (123) 456-7890<br/>Los Angeles, CA, USA</p>'
 			}
 		});
 
